@@ -1,5 +1,22 @@
 # X_ray_datasheet
 
+PRICE IS FOR 1 PC OF 6VS-1 VINTAGE SOVIET HIGH VOLTAGE REGULATOR TUBE FROM THE 50's (1956 or 1957) - NOS - MELZ
+
+6VS-1(6BC-1) is a vintage soviet high voltage regulator.
+Heater voltage, V: 6,3 (5,67-6,93)
+Heater current, A: 0,6 (0,54-0,66)
+Anode voltage, V: 4000 - 7700
+Accelerating electrode voltage, V: 250 - 750
+Modulator voltage, V: from - 125 to 0
+Cathode-heater voltage, V: from -125 to 0
+Service life: more than 1000 operating hours under prescribed conditions.
+Dimensions: app. 130 x 37 mm = length from the bottom of the pins to the top of the anode cap. x width of the bulb.
+Condition - New old stock tubes, directly from the old mil. surplus made in the 50's (1956-1957). Packed in the carboard rolls, original datasheet included. Exact date codes of production may differ.
+Tube/Tubes will be safely packed and delivered in a reinforced cardboard box. Shipping - via Slovak post - registered mail (for US customers traceable also via USPS).
+In case of any further questions, please contact us anytime, you are always welcome.
+
+
+
 This tube is without metal cap on the top, instead there is a wire. Look at photo please!
 
 
