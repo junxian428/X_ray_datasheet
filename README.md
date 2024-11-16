@@ -4,6 +4,9 @@ PRICE IS FOR 1 PC OF 6VS-1 VINTAGE SOVIET HIGH VOLTAGE REGULATOR TUBE FROM THE 5
 
 6VS-1(6BC-1) is a vintage soviet high voltage regulator.
 
+![image](https://github.com/user-attachments/assets/3ee847bc-007c-4113-9003-986f86110a47)
+
+
 Heater voltage, V: 6,3 (5,67-6,93)
 
 Heater current, A: 0,6 (0,54-0,66)
