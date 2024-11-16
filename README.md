@@ -6,6 +6,7 @@ PRICE IS FOR 1 PC OF 6VS-1 VINTAGE SOVIET HIGH VOLTAGE REGULATOR TUBE FROM THE 5
 
 ![image](https://github.com/user-attachments/assets/3ee847bc-007c-4113-9003-986f86110a47)
 
+![image](https://github.com/user-attachments/assets/ec2e6e84-cf1b-46e6-bca6-5886d9dcb2c8)
 
 Heater voltage, V: 6,3 (5,67-6,93)
 
